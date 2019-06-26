@@ -1,0 +1,10 @@
+ReviewStore/bin/
+ReviewStore/obj/
+Tests/MSTest_ReviewStore/obj/
+Tests/MSTest_ReviewStore/bin/
+Data/ReviewStore_Data/obj/
+Models/ReviewStore_Models/obj/
+Models/ReviewStore_Models/bin/
+Data/ReviewStore_Data/bin/
+Models/ReviewStore_Models/obj/
+.vs/
